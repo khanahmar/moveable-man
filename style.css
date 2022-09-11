@@ -1,0 +1,50 @@
+* {
+  margin: 0%;
+  padding: 0%;
+  box-sizing: border-box;
+}
+
+#man {
+  width: 250px;
+  height: 200px;
+  border: 2px solid black;
+  background-color: black;
+  left: 0;
+  top: 0;
+}
+/* .body {
+  margin-top: 60px;
+  margin-left: 120px;
+  align-items: center;
+  border: 2px solid black;
+  width: 50px;
+  height: 80px;
+  background-color: rgb(255, 248, 248);
+}
+.head {
+  position: absolute;
+  margin-top: 14px;
+  margin-left: 99px;
+  align-items: center;
+  border: 2px hidden black;
+  width: 90px;
+  height: 50px;
+  background-color: rgb(255, 248, 248);
+  border-radius: 20px;
+}
+.right-hand {
+  position: absolute;
+  width: 50px;
+  height: 20px;
+  background-color: white;
+  margin-top: 6%;
+  margin-left: 72px;
+}
+.left-hand {
+  position: absolute;
+  width: 54px;
+  height: 20px;
+  background-color: white;
+  margin-top: 6%;
+  margin-left: 167px;
+} */
